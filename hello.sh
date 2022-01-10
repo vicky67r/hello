@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "hello maven"
+
+echo "hello jenkins pipeline"
+ 
+echo " pipeline running stable "
